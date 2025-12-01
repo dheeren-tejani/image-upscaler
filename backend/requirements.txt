@@ -1,0 +1,49 @@
+# --- Core AI & Deep Learning Frameworks ---
+torch==2.7.1+cu118
+torchaudio==2.7.1+cu118
+torchvision==0.22.1+cu118
+
+# --- Hugging Face Ecosystem ---
+transformers==4.55.0
+diffusers==0.34.0
+accelerate==1.9.0
+peft==0.17.0
+safetensors==0.6.1
+
+# --- NVIDIA Optimization ---
+tensorrt==10.13.2.6
+pycuda==2025.1.2
+bitsandbytes==0.46.1
+
+# --- Web Backend & Serving ---
+fastapi==0.116.1
+uvicorn==0.35.0
+python-multipart==0.0.20
+
+# --- Web App Framework (Alternative) ---
+streamlit==1.48.0
+
+# --- Classic ML & Data Science ---
+scikit-learn==1.7.1
+pandas==2.3.1
+numpy==2.3.2
+
+# --- Image, Video & Metrics Libraries ---
+scikit-image==0.25.2
+Pillow==11.0.0
+moviepy==2.2.1
+sk-video==1.1.10
+lpips==0.1.4
+piq==0.8.0
+ImageHash==4.3.2
+
+# --- Plotting & Visualization ---
+matplotlib==3.10.5
+seaborn==0.13.2
+altair==5.5.0
+
+# --- Utility Libraries ---
+tqdm==4.67.1
+python-dotenv==1.1.1
+gdown==5.2.0
+GitPython==3.1.45

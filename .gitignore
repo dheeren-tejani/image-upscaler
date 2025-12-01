@@ -1,0 +1,10 @@
+# Packages
+/frontend/node_modules/
+
+# Python Envs
+upscaler/
+venv/
+
+# Models Folder and meta details
+backend/ml_models/
+meta_details/
